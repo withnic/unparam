@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"os"
 
-	"mvdan.cc/unparam/check"
+	"github.com/withnic/unparam/check"
 )
 
 var (
